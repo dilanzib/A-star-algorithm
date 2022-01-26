@@ -1,1 +1,1 @@
-# A-star-algorithm
+# School-porject where I implemented the A* algorithm
