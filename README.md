@@ -1,1 +1,1 @@
-# School-porject where I implemented the A* algorithm
+# School project where I implemented the A* algorithm
